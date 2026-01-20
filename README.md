@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Cardoso 👋
 
-<!--
-**4jc4/4jc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer focused on the TypeScript ecosystem.
 
-Here are some ideas to get you started:
+## 👨‍💻 About me
+- Software Developer
+- Focused on building scalable and well-structured applications
+- Strong interest in clean code and best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: React, Next.js, Vite, Tailwind CSS
+- Backend: NestJS, Node.js, Prisma
+- Database: PostgreSQL
+- Tooling: Git, GitHub Actions, Docker
+
+## 🚀 What I’m working on
+- REST APIs
+- Modern front-end applications using React and Next.js
+
+## 📫 Contact
+- Email: cardoso.rr@hotmail.com
