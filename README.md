@@ -1,11 +1,11 @@
 # Hi, I'm Cardoso 👋
 
-Fullstack Developer focused on the TypeScript ecosystem.
+Fullstack Developer focused on the TypeScript ecosystem, building scalable and well-structured applications.
 
 ## 👨‍💻 About me
-- Software Developer
-- Focused on building scalable and well-structured applications
-- Strong interest in clean code and best practices
+- Software Developer with experience in fullstack applications
+- Strong focus on clean code, maintainability and best practices
+- Interested in building reliable APIs and modern web interfaces
 
 ## 🛠 Tech Stack
 - Frontend: React, Next.js, Vite, Tailwind CSS
@@ -14,8 +14,9 @@ Fullstack Developer focused on the TypeScript ecosystem.
 - Tooling: Git, GitHub Actions, Docker
 
 ## 🚀 What I’m working on
-- REST APIs
-- Modern front-end applications using React and Next.js
+- Designing REST APIs
+- Developing modern frontend applications using React and Next.js
+- Improving code quality through testing and refactoring
 
 ## 📫 Contact
 - Email: cardoso.rr@hotmail.com
